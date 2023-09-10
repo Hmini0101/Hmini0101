@@ -1,9 +1,9 @@
 ![Capsule Render](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeonMin&fontSize=60)
 
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmini0101&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmini0101&layout=compact)
+-->
 
 #### Tech
 
@@ -12,7 +12,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmini0101&layout=compact)
 
 
 #### Connect with Me
