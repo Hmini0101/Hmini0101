@@ -4,11 +4,11 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmini0101&show_icons=true&theme=transparent)
 -->
-
+<strong>안녕하세요! 성장하는 개발자 박현민입니다.</strong>
 #### Tech
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 <!--
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
