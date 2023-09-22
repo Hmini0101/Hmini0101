@@ -13,7 +13,7 @@
 <!--
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmini0101&layout=compact)
+
 
 
 #### Connect with Me
