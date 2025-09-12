@@ -1,38 +1,67 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeonMin&fontSize=60)
+<h2 align="center">Hi there! I'm HyeonMin.</h2>
+<h3 align="center">Continuously learning and building new things..</h3>
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&width=435&lines=Spring;Vue;RPA;My+tech+stack+is...;" alt="Typing SVG" />
+</div>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmini0101&show_icons=true&theme=transparent)
--->
-<strong>안녕하세요! 성장하는 개발자 박현민입니다.</strong>
-#### Tech
+---
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-<!--
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmini0101&layout=compact)
+### 💻 My Tech Stack
+<div align="center">
+    <a href="https://spring.io" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=spring,java" alt="Spring & Java" />
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vue,ts" alt="Vue & TypeScript" />
+    </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    </a>
+  <br>
+    <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6B00?style=for-the-badge&logo=AutomationAnywhere&logoColor=white" alt="Automation Anywhere A360" />
+    </a>
+    <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Blue%20Prism-189DFF?style=for-the-badge&logo=blueprism&logoColor=white" alt="Blue Prism" />
+    </a>
+    <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Power%20Automate-0062AD?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Microsoft Power Automate" />
+    </a>
+</div>
+---
 
-#### Connect with Me
-- 📫 [Email](mailto:qkrgusals0101@gmail.com).
-<!--
-- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter-handle).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
--->
+### 📈 My GitHub Activity
 
-<!--
-**Hmini0101/Hmini0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <a href="https://github.com/hmini0101">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmini0101&theme=github" alt="GitHub Activity Graph" />
+    </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently...
+
+- 🔭 RPA 자동화을 개발하고 있습니다.
+- 🌱 LLM, AI Agent 학습하고 있습니다.
+- 📫 궁금한 점은 **qkrgusals0101@gmail.com**으로 언제든지 문의해주세요!
+
+---
+
+<h3 align="center">Let's Connect!</h3>
+
+<div align="center">
+    <a href="mailto:qkrgusals0101@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=hmini0101&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count" />
+</div>
