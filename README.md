@@ -52,16 +52,6 @@
 
 ---
 
-<h3 align="center">Let's Connect!</h3>
-
-<div align="center">
-    <a href="mailto:qkrgusals0101@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-</div>
-
----
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=hmini0101&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count" />
 </div>
