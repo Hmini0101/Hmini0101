@@ -9,6 +9,9 @@
 
 ### 💻 My Tech Stack
 <div align="center">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+    </a>
     <a href="https://spring.io" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=spring,java" alt="Spring & Java" />
     </a>
